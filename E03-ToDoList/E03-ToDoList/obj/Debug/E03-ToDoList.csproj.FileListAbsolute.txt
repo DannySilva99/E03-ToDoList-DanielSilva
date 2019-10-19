@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\E03-ToDoList\E03-ToDoList\bin\Debug\E03-ToDoList.exe.config
+C:\Users\User\source\repos\E03-ToDoList\E03-ToDoList\bin\Debug\E03-ToDoList.exe
+C:\Users\User\source\repos\E03-ToDoList\E03-ToDoList\bin\Debug\E03-ToDoList.pdb
+C:\Users\User\source\repos\E03-ToDoList\E03-ToDoList\obj\Debug\E03-ToDoList.csprojAssemblyReference.cache
+C:\Users\User\source\repos\E03-ToDoList\E03-ToDoList\obj\Debug\E03-ToDoList.exe
+C:\Users\User\source\repos\E03-ToDoList\E03-ToDoList\obj\Debug\E03-ToDoList.pdb
+C:\Users\User\Desktop\E03-ToDoList\E03-ToDoList\bin\Debug\E03-ToDoList.exe.config
+C:\Users\User\Desktop\E03-ToDoList\E03-ToDoList\bin\Debug\E03-ToDoList.exe
+C:\Users\User\Desktop\E03-ToDoList\E03-ToDoList\bin\Debug\E03-ToDoList.pdb
+C:\Users\User\Desktop\E03-ToDoList\E03-ToDoList\obj\Debug\E03-ToDoList.csprojAssemblyReference.cache
+C:\Users\User\Desktop\E03-ToDoList\E03-ToDoList\obj\Debug\E03-ToDoList.exe
+C:\Users\User\Desktop\E03-ToDoList\E03-ToDoList\obj\Debug\E03-ToDoList.pdb
+C:\Users\User\Desktop\E03-ToDoList\E03-ToDoList\obj\Debug\E03-ToDoList.csproj.CoreCompileInputs.cache
